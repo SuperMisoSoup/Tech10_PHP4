@@ -16,6 +16,7 @@ https://docomo-tech-tkn.sakura.ne.jp/10_PHP4/login.php
 
 - ID：test1
 - PW：test1
+- ※さくらサーバにうまくアクセスできないです…
 - 
 - 入力サンプルファイルで動作確認可能です
   - ※キー：AQ列のALID
